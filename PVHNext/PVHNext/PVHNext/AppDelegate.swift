@@ -23,7 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var Mode: Bool = false
     var lat = 36.976309;
     var long = -122.054860;
-    
+    //Test
     
     
     /*Initializing the Parse Back4App connection.
